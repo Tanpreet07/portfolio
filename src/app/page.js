@@ -144,7 +144,7 @@ export default function Home() {
                 Explore Projects
               </Link>
               <Link
-                href="/resume"
+                href="/Tanpreet_CV.pdf"
                 className="relative inline-flex items-center text-medium no-underline transition duration-300 bg-white text-black px-6 py-3 rounded-full shadow-lg hover:scale-105 hover:shadow-2xl w-full sm:w-auto text-center justify-center"
               >
                 Resume

@@ -18,7 +18,7 @@ const page = () => {
             <div className='space-y-4 sm:space-y-5 lg:space-y-6 text-center lg:text-left max-w-2xl mx-auto lg:mx-0'>
               
               <p className='text-sm sm:text-base lg:text-[17px] leading-relaxed'>
-                I'm Tanpreet, a passionate Full Stack Web Developer with expertise in the MERN stack — MongoDB, Express.js, React, Node.js and Next.js. I enjoy building scalable, high-performance web applications with clean, maintainable code.
+                I&#39;m Tanpreet, a passionate Full Stack Web Developer with expertise in the MERN stack — MongoDB, Express.js, React, Node.js and Next.js. I enjoy building scalable, high-performance web applications with clean, maintainable code.
               </p>
               
               <p className='text-sm sm:text-base lg:text-[17px] leading-relaxed'>
@@ -26,11 +26,11 @@ const page = () => {
               </p>
               
               <p className='text-sm sm:text-base lg:text-[17px] leading-relaxed'>
-                I'm a strong believer in continuous learning, clean architecture, and collaboration. Whether it's creating dynamic interfaces or architecting RESTful APIs, I'm always up for a challenge.
+                I&#39;m a strong believer in continuous learning, clean architecture, and collaboration. Whether it&#39;s creating dynamic interfaces or architecting RESTful APIs, I&#39;m always up for a challenge.
               </p>
               
               <p className='text-base sm:text-lg lg:text-[20px] font-semibold text-center lg:text-left mt-6 lg:mt-8'>
-                Let's Create Something Unforgettable
+                Let&#39;s Create Something Unforgettable
               </p>
               
             </div>

@@ -118,7 +118,7 @@ export default function Home() {
             <motion.h1
               variants={fadeUp}
               className="tracking-tight inline font-semibold text-3xl sm:text-4xl md:text-5xl lg:text-[75px] bg-clip-text text-white bg-gradient-to-b from-white to-gray-300">
-              Hi, I'm <span className="tracking-tight inline font-semibold from-[#FF1CF7] to-[#b249f8] text-3xl sm:text-4xl md:text-5xl lg:text-[75px] bg-clip-text text-transparent bg-gradient-to-b">Tanpreet</span>
+              Hi, I&#39;m <span className="tracking-tight inline font-semibold from-[#FF1CF7] to-[#b249f8] text-3xl sm:text-4xl md:text-5xl lg:text-[75px] bg-clip-text text-transparent bg-gradient-to-b">Tanpreet</span>
             </motion.h1>
 
             <motion.div variants={fadeUp} className="flex items-center justify-center lg:justify-start">

@@ -80,10 +80,10 @@ const page = () => {
         {/* Project 1 - Code Of War */}
         <motion.a 
           variants={fadefirstright} 
-          href="https://code-of-war.vercel.app/" 
-          className='block w-full h-[200px] sm:h-[220px] lg:h-[250px] rounded-lg hover:scale-105 transition-transform duration-500 group'
+          href="https://feedback-system-rt.vercel.app/" 
+          className="block w-full h-[200px] sm:h-[220px] lg:h-[250px] rounded-lg hover:scale-105 transition-transform duration-500 group"
         >
-          <Card classNames="rounded-lg h-full">
+          <Card className='rounded-lg h-full'>
             <CardHeader className="absolute z-10 top-1 flex-col items-start bg-black/20 rounded-t-lg">
               <h4 className="text-gray-300 font-medium text-lg sm:text-xl lg:text-2xl">
                 Code Of War
@@ -94,8 +94,7 @@ const page = () => {
             </CardHeader>
             <Image
               removeWrapper
-              isZoomed
-              alt="Code Of War image"
+              alt="code of war image"
               className="z-0 w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
               src="/codeofwar.png"
             />

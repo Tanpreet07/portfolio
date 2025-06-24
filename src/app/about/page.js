@@ -4,9 +4,9 @@ import { Image } from '@heroui/react'
 const page = () => {
   return (
     <div className='min-h-screen w-full flex items-center justify-center p-4 sm:p-6 lg:p-8'>
-      <div className='bg-[rgb(24,24,27)] w-full max-w-6xl rounded-lg min-h-[80vh] flex flex-col'>
+      <div className='dark:bg-[rgb(24,24,27)] dark:border-none border border-gray-300 w-full max-w-6xl rounded-lg min-h-[80vh] flex flex-col'>
         {/* Header */}
-        <h4 className='text-2xl sm:text-3xl lg:text-4xl text-white text-center mt-4 sm:mt-6 lg:mt-8 font-bold mb-4 sm:mb-6 lg:mb-8'>
+        <h4 className='text-2xl sm:text-3xl lg:text-4xl text-center mt-4 sm:mt-6 lg:mt-8 font-bold mb-4 sm:mb-6 lg:mb-8'>
           About Me
         </h4>
         
@@ -14,7 +14,7 @@ const page = () => {
         <div className='flex-1 flex flex-col lg:flex-row items-center lg:items-stretch px-4 sm:px-6 lg:px-8 pb-6 lg:pb-8'>
           
           {/* Text Content */}
-          <div className='w-full lg:w-1/2 text-white flex flex-col justify-center order-2 lg:order-1 mt-6 lg:mt-0'>
+          <div className='w-full lg:w-1/2 flex flex-col justify-center order-2 lg:order-1 mt-6 lg:mt-0'>
             <div className='space-y-4 sm:space-y-5 lg:space-y-6 text-center lg:text-left max-w-2xl mx-auto lg:mx-0'>
               
               <p className='text-sm sm:text-base lg:text-[17px] leading-relaxed'>

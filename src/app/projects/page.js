@@ -80,7 +80,7 @@ const page = () => {
         {/* Project 1 - Code Of War */}
         <motion.a 
           variants={fadefirstright} 
-          href="https://feedback-system-rt.vercel.app/" 
+          href="https://code-of-war.vercel.app/" 
           className="block w-full h-[200px] sm:h-[220px] lg:h-[250px] rounded-lg hover:scale-105 transition-transform duration-500 group"
         >
           <Card className='rounded-lg h-full'>
